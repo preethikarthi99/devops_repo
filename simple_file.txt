@@ -1,2 +1,5 @@
 To test the git commit -a -m "Comments" for a newly created file
+<<<<<<< HEAD
 a=b print "a is equal to b"
+=======
+>>>>>>> 84744f7f17c6940a17ba8a0eef909ca66fc99b6c
